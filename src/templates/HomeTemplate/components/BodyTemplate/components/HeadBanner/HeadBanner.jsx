@@ -6,6 +6,8 @@ import Icons from "../../../../../../components/Icons";
 import InputSearch from "../../../../../../components/input/inputSearch/InputSearch";
 import "./headBanner.scss";
 
+import { send } from "vite";
+
 const HeadBanner = () => {
   // const [key, setKey] = useState("");
   // const [value] = useDebounce(key, 1000);
