@@ -5,7 +5,7 @@ import { Dropdown } from "antd";
 import { useDebounce } from "use-debounce";
 import { CongViecService } from "../../../../services/congViec.service";
 import Icons from "../../../../components/Icons";
-import HeadBanner from "./components/headBanner/HeadBanner";
+import HeadBanner from "./components/HeadBanner/HeadBanner";
 import JobItemCart from "./components/JobItemCart/JobItemCart";
 import Guides from "./components/Guides/Guides";
 import PopularService from "./components/PopularService/PopularService";
